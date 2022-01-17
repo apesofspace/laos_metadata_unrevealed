@@ -1,13 +1,39 @@
 {
-    "attributes": [
-        {
-            "trait_type": "Lady Apes Of Space",
-            "value": "Unrevealed"
-        }
-    ],
-    "description": "Apes Of Space holders will be able to free mint Lady Apes Of Space from the 17th December. 1:1 Ratio of Apes to Lady Apes, if you own 5 original Apes, you can free mint 5 Lady Apes. (Just pay gas). There will be no public sale, these are limited solely to Apes Of Space holders.",
-    "external_url": "https://apesofspace.com",
-    "image_url": "https://apesofspace.com/ladyapesofspace.png",
-    "name": "Lady Apes Of Space #2334"
+  "name": "Lady Apes #2334",
+  "external_link": "https://apesofspace.com/#lady",
+  "image": "https://ipfs.io/ipfs/QmRnFeNkSrQSjvMKb3fN93ZyiPgWvsaP7UGFY6WWR1fcDM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spacesuit"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Bandage"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cooling"
+    },
+    {
+      "trait_type": "Neck",
+      "value": ""
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Saturn"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cyber Skull"
     }
-    
+  ]
+}
